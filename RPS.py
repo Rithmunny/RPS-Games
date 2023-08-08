@@ -17,5 +17,5 @@ def game():
     elif x == 3 and guess ==1:
         print("You win")
     elif x == 3 and guess == 3:
-        print("You lose")
+        print("You lose again")
 game()
